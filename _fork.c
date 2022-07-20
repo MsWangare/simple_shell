@@ -2,7 +2,7 @@
 
 /**
  * child - function for child process
- * @fullpath: full path of executable
+ * @fullath: full path of executable
  * @tokens: tokenized user input
  * Return: 0 on success
  */
